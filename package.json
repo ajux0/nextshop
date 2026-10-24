@@ -1,0 +1,17 @@
+{
+  "name": "nextshop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NextShop - a product catalog built with Next.js App Router",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
